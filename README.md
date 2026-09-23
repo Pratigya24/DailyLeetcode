@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pratigya24/DailyLeetcode/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Pratigya24/DailyLeetcode/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/Pratigya24/DailyLeetcode/tree/master/0498-diagonal-traverse) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratigya24/DailyLeetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pratigya24/DailyLeetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratigya24/DailyLeetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0142-linked-list-cycle-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratigya24/DailyLeetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
