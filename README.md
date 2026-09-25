@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Pratigya24/DailyLeetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pratigya24/DailyLeetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratigya24/DailyLeetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pratigya24/DailyLeetcode/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/Pratigya24/DailyLeetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratigya24/DailyLeetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
