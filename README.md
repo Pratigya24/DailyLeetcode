@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pratigya24/DailyLeetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Pratigya24/DailyLeetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Pratigya24/DailyLeetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0047-permutations-ii) |
 | [0136-single-number](https://github.com/Pratigya24/DailyLeetcode/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/Pratigya24/DailyLeetcode/tree/master/0498-diagonal-traverse) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratigya24/DailyLeetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -86,4 +87,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Pratigya24/DailyLeetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
