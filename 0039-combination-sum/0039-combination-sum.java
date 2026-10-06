@@ -10,11 +10,10 @@ class Solution {
             result.add(new ArrayList<>(current));
             return;
         }
-        if (target < 0) return;
 
-        // if(candidates[start] > target){
-        //     return;
-        // } 
+        if(target < 0){
+            return ;
+        }
 
         for (int i = start; i < candidates.length; i++) {
             current.add(candidates[i]);
