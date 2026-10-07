@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
 | [4030-check-ascii-palindromic](https://github.com/Pratigya24/DailyLeetcode/tree/master/4030-check-ascii-palindromic) |
 ## String Matching
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Pratigya24/DailyLeetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Pratigya24/DailyLeetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pratigya24/DailyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
