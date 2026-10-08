@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pratigya24/DailyLeetcode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
 | [4030-check-ascii-palindromic](https://github.com/Pratigya24/DailyLeetcode/tree/master/4030-check-ascii-palindromic) |
 ## Matrix
 |  |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
