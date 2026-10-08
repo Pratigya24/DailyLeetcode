@@ -139,9 +139,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Pratigya24/DailyLeetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Pratigya24/DailyLeetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
