@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [4030-check-ascii-palindromic](https://github.com/Pratigya24/DailyLeetcode/tree/master/4030-check-ascii-palindromic) |
 ## String Matching
 |  |
@@ -149,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pratigya24/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pratigya24/DailyLeetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
