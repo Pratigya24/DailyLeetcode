@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pratigya24/DailyLeetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Pratigya24/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
 | [4030-check-ascii-palindromic](https://github.com/Pratigya24/DailyLeetcode/tree/master/4030-check-ascii-palindromic) |
 ## Matrix
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pratigya24/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pratigya24/DailyLeetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pratigya24/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pratigya24/DailyLeetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
