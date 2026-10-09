@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pratigya24/DailyLeetcode/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [4030-check-ascii-palindromic](https://github.com/Pratigya24/DailyLeetcode/tree/master/4030-check-ascii-palindromic) |
 ## String Matching
 |  |
@@ -154,8 +156,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
