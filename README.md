@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pratigya24/DailyLeetcode/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/Pratigya24/DailyLeetcode/tree/master/0498-diagonal-traverse) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pratigya24/DailyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pratigya24/DailyLeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Pratigya24/DailyLeetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pratigya24/DailyLeetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pratigya24/DailyLeetcode/tree/master/0011-container-with-most-water) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pratigya24/DailyLeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,9 +124,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Pratigya24/DailyLeetcode/tree/master/0147-insertion-sort-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pratigya24/DailyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pratigya24/DailyLeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pratigya24/DailyLeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pratigya24/DailyLeetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pratigya24/DailyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pratigya24/DailyLeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
