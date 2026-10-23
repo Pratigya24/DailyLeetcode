@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pratigya24/DailyLeetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Pratigya24/DailyLeetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pratigya24/DailyLeetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pratigya24/DailyLeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Pratigya24/DailyLeetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Pratigya24/DailyLeetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pratigya24/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pratigya24/DailyLeetcode/tree/master/0342-power-of-four) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pratigya24/DailyLeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pratigya24/DailyLeetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [4030-check-ascii-palindromic](https://github.com/Pratigya24/DailyLeetcode/tree/master/4030-check-ascii-palindromic) |
 ## Matrix
 |  |
