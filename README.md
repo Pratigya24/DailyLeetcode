@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Pratigya24/DailyLeetcode/tree/master/0498-diagonal-traverse) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pratigya24/DailyLeetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Pratigya24/DailyLeetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratigya24/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Pratigya24/DailyLeetcode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Pratigya24/DailyLeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Pratigya24/DailyLeetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
